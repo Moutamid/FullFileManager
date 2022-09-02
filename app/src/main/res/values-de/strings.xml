@@ -1,23 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!--
-    Copyright (C) 2014-2017 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
-
-    This file is part of Amaze File Manager.
-
-    Amaze File Manager is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    -->
+  ~ Copyright (c) 2022 FullDive
+  ~  This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU General Public License as published by
+  ~  the Free Software Foundation, either version 3 of the License, or
+  ~  (at your option) any later version.
+  ~
+  ~  This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU General Public License
+  ~  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  -->
 
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation"
@@ -160,7 +157,7 @@
     <string name="miscellaneous">Verschiedenes</string>
     <string name="root_pref_summary">Zeige die Berechtigungen der Dateien und Ordner an</string>
     <string name="root_pref">Dateiberechtigungen anzeigen</string>
-    <string name="about_amaze_file_manager_label">Über Amaze File Manager</string>
+    <string name="about_amaze_file_manager_label">Über Full File Manager</string>
     <string name="version">Version</string>
     <string name="rate">Diese App bewerten</string>
     <string name="feedback">Feedback senden</string>
@@ -581,7 +578,7 @@ andernfalls wird nach Treffern gesucht.</string>
         <p><a href=\"https://www.aescrypt.com\" target=\"_blank>AESCrypt Webseite</a></p>]]>
 </string>
     <string name="encrypt_option_use_azecrypt_desc"><![CDATA[
-        <p>Das Verschlüsselungsformat von Amaze basiert ebenfalls auf AES, unterscheidet sich aber vom AESCrypt-Format. Es kann nur von diesem Gerät entschlüsselt werden. Es sollte beachtet werden, dass mit der Deinstallation von Amaze File Manager auf diesem Gerät oder bei Änderung wie der Sperrbildschirm gehandhabt wird, verschlüsselte Dateien nicht wiederhergestellt werdne können.</p>
+        <p>Das Verschlüsselungsformat von Amaze basiert ebenfalls auf AES, unterscheidet sich aber vom AESCrypt-Format. Es kann nur von diesem Gerät entschlüsselt werden. Es sollte beachtet werden, dass mit der Deinstallation von Full File Manager auf diesem Gerät oder bei Änderung wie der Sperrbildschirm gehandhabt wird, verschlüsselte Dateien nicht wiederhergestellt werdne können.</p>
     ]]></string>
     <string name="encrypt_file_must_end_with_aze">Verschlüsselte Dateien müssen \".aze\" als Dateierweiterung verwenden.</string>
     <string name="encrypt_file_must_end_with_aes">Verschlüsselte Dateien müssen \".aes\" als Dateierweiterung verwenden.</string>
@@ -679,7 +676,7 @@ Sie müssen diesen Schritt nur einmalig ausführen, bis Sie einen neuen Ort für
     <string name="error_bad_archive_without_info">\"%s\" ist ein defektes Archiv.</string>
     <string name="error_bad_archive_with_info">\"%s\" ist ein defektes Archiv.\nMeldung des Extrators: \"%s\"</string>
     <string name="security_error">Datei konnte mit dieser App nicht geöffnet werden </string>
-    <string name="cloud_drive_tooltip">Eine Verbindung mit Google Drive™ erstellen, um Dateien innerhalb Amaze File Manager zu verwalten.</string>
+    <string name="cloud_drive_tooltip">Eine Verbindung mit Google Drive™ erstellen, um Dateien innerhalb Full File Manager zu verwalten.</string>
     <string name="signin_with_google_title">Authentifizieren um Google Drive™ zu nutzen</string>
     <string name="show_system_apps">System-Apps anzeigen</string>
     <string name="system_apps">System-Apps</string>
@@ -689,7 +686,7 @@ Sie müssen diesen Schritt nur einmalig ausführen, bis Sie einen neuen Ort für
     <string name="select_similar">Ähnliche auswählen</string>
     <string name="error_fetching_google_play_product_list">Fehler beim Abruf der Produktliste von Google Play.</string>
     <string name="grant_all_files_permission"><html><body>Seit Android 11 wird seitens Google verlangt, dass Dateiverwalter Berechtigungen zum Verwalten aller Dateien auf dem Gerät anfordern. Mehr Details dazu <a href="https://developer.android.com/training/data-storage/manage-all-files" target="_blank">hier</a>.
-        \n\nAmaze File Manager benötigt diese Berechtigung ebenfalls. Nach drücken auf &quot;Zulassen&quot; bitte die Option <b>Zugriff zum Verwalten aller Dateien zulassen</b> auf der nächsten Seite auswählen.
+        \n\nFull File Manager benötigt diese Berechtigung ebenfalls. Nach drücken auf &quot;Zulassen&quot; bitte die Option <b>Zugriff zum Verwalten aller Dateien zulassen</b> auf der nächsten Seite auswählen.
         \n\n<font color='#ff6347'><i>Das Abbrechen dieser Abfrage wird die App beenden.</i></font></body></html></string>
     <string name="user_apps">Benutzer-Apps</string>
     <string name="appearance">Aussehen</string>

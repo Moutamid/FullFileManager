@@ -1,21 +1,17 @@
 /*
- * Copyright (C) 2014-2020 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>,
- * Emmanuel Messulam<emmanuelbendavid@gmail.com>, Raymond Lai <airwave209gt at gmail.com> and Contributors.
+ * Copyright (c) 2022 FullDive
+ *  This program is free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
  *
- * This file is part of Amaze File Manager.
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
  *
- * Amaze File Manager is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
 package com.amaze.filemanager.fileoperations.filesystem.cloud;
@@ -49,48 +45,6 @@ import com.amaze.filemanager.fileoperations.filesystem.smbstreamer.Streamer;
 
 import android.net.Uri;
 
-/**
- * A simple, tiny, nicely embeddable HTTP 1.0 (partially 1.1) server in Java
- *
- * <p>NanoHTTPD version 1.24, Copyright &copy; 2001,2005-2011 Jarno Elonen (elonen@iki.fi,
- * http://iki.fi/elonen/) and Copyright &copy; 2010 Konstantinos Togias (info@ktogias.gr,
- * http://ktogias.gr)
- *
- * <p><b>Features + limitations: </b>
- *
- * <ul>
- *   <li>Only one Java file
- *   <li>Java 1.1 compatible
- *   <li>Released as open source, Modified BSD licence
- *   <li>No fixed config files, logging, authorization etc. (Implement yourself if you need them.)
- *   <li>Supports parameter parsing of GET and POST methods
- *   <li>Supports both dynamic content and file serving
- *   <li>Supports file upload (since version 1.2, 2010)
- *   <li>Supports partial content (streaming)
- *   <li>Supports ETags
- *   <li>Never caches anything
- *   <li>Doesn't limit bandwidth, request time or simultaneous connections
- *   <li>Default code serves files and shows all HTTP parameters and headers
- *   <li>File server supports directory listing, index.html and index.htm
- *   <li>File server supports partial content (streaming)
- *   <li>File server supports ETags
- *   <li>File server does the 301 redirection trick for directories without '/'
- *   <li>File server supports simple skipping for files (continue download)
- *   <li>File server serves also very long files without memory overhead
- *   <li>Contains a built-in list of most common mime types
- *   <li>All header names are converted lowercase so they don't vary between browsers/clients
- * </ul>
- *
- * <p><b>Ways to use: </b>
- *
- * <ul>
- *   <li>Run as a standalone app, serves files and shows requests
- *   <li>Subclass serve() and embed to your own program
- *   <li>Call serveFile() from serve() with your own base directory
- * </ul>
- *
- * See the end of the source file for distribution license (Modified BSD licence)
- */
 public abstract class CloudStreamServer {
   private static final Logger LOG = LoggerFactory.getLogger(CloudStreamServer.class);
 

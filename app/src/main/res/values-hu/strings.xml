@@ -1,28 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!--
-    Copyright (C) 2014-2017 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
-
-    This file is part of Amaze File Manager.
-
-    Amaze File Manager is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    -->
+  ~ Copyright (c) 2022 FullDive
+  ~  This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU General Public License as published by
+  ~  the Free Software Foundation, either version 3 of the License, or
+  ~  (at your option) any later version.
+  ~
+  ~  This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU General Public License
+  ~  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  -->
 
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Amaze File Manager</string>
+    <string name="app_name">Full File Manager</string>
     <string name="drawer_open">Navigációs fiók megnyitása</string>
     <string name="drawer_close">Navigációs fiók bezárása</string>
     <string name="icon">ikon</string>
@@ -158,7 +155,7 @@
     <string name="miscellaneous">Egyéb</string>
     <string name="root_pref_summary">Fájl és mappa engedélyek megjelenítése</string>
     <string name="root_pref">Engedélyek megjelenítése</string>
-    <string name="about_amaze_file_manager_label">Az Amaze File Manager névjegye</string>
+    <string name="about_amaze_file_manager_label">Az Full File Manager névjegye</string>
     <string name="version">Verzió</string>
     <string name="rate">Alkalmazás értékelése</string>
     <string name="feedback">Visszajelzés küldése</string>
@@ -569,9 +566,9 @@
     <string name="developers">Fejlesztők</string>
     <string name="no_bitcoin_app">Kérjük, telepítse a Bitcoin pénztárcát</string>
     <string name="channel_name_normal">Amaze értesítések</string>
-    <string name="channel_description_normal">Amaze File Manager értesítései</string>
+    <string name="channel_description_normal">Full File Manager értesítései</string>
     <string name="channel_name_ftp">Amaze FTP-kiszolgáló</string>
-    <string name="channel_description_ftp">Amaze File Manager FTP-kiszolgáló értesítései</string>
+    <string name="channel_description_ftp">Full File Manager FTP-kiszolgáló értesítései</string>
 
     <string name="processing">Feldolgozás&#8230;</string>
     <string name="failed_no_connection">Nem sikerült betölteni a fájlokat. Ellenőrizze a kapcsolatot.</string>

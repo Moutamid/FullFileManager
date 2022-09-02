@@ -1,23 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!--
-    Copyright (C) 2014-2017 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
-
-    This file is part of Amaze File Manager.
-
-    Amaze File Manager is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    -->
+  ~ Copyright (c) 2022 FullDive
+  ~  This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU General Public License as published by
+  ~  the Free Software Foundation, either version 3 of the License, or
+  ~  (at your option) any later version.
+  ~
+  ~  This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU General Public License
+  ~  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  -->
 
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation"
@@ -162,7 +159,7 @@ I cambiamenti saranno effettivi dopo il riavvio dell\'app
     <string name="miscellaneous">Varie</string>
     <string name="root_pref_summary">Mostra permessi di file e cartelle</string>
     <string name="root_pref">Mostra permessi</string>
-    <string name="about_amaze_file_manager_label">Informazioni su Amaze File Manager</string>
+    <string name="about_amaze_file_manager_label">Informazioni su Full File Manager</string>
     <string name="version">Versione</string>
     <string name="rate">Vota l\'app</string>
     <string name="feedback">Invia feedback</string>
@@ -681,7 +678,7 @@ Dovrai farlo solo questa volta, fino a quando non sceglierai un percorso diverso
     <string name="error_bad_archive_without_info">\"%s\" è un archivio corrotto.</string>
     <string name="error_bad_archive_with_info">\"%s\" è un archivio corrotto.\nMessaggio dall\'estrattore: \"%s\"</string>
     <string name="security_error">Impossibile aprire il file usando quest\'app</string>
-    <string name="cloud_drive_tooltip">Crea una connessione Google Drive™ per gestire i file da Amaze File Manager.</string>
+    <string name="cloud_drive_tooltip">Crea una connessione Google Drive™ per gestire i file da Full File Manager.</string>
     <string name="signin_with_google_title">Autenticati per usare Google Drive™</string>
     <string name="show_system_apps">Mostra le app di sistema</string>
     <string name="system_apps">App di sistema</string>

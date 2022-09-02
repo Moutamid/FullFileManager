@@ -1,28 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!--
-    Copyright (C) 2014-2017 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
-
-    This file is part of Amaze File Manager.
-
-    Amaze File Manager is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    -->
+  ~ Copyright (c) 2022 FullDive
+  ~  This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU General Public License as published by
+  ~  the Free Software Foundation, either version 3 of the License, or
+  ~  (at your option) any later version.
+  ~
+  ~  This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU General Public License
+  ~  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  -->
 
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Amaze File Manager</string>
+    <string name="app_name">Full File Manager</string>
     <string name="drawer_open">Buka laci navigasi</string>
     <string name="drawer_close">Tutup laci navigasi</string>
     <string name="icon">ikon</string>
@@ -158,7 +155,7 @@
     <string name="miscellaneous">Lainnya</string>
     <string name="root_pref_summary">Tampilkan Perizinan Berkas dan Folder</string>
     <string name="root_pref">Tampilkan Perizinan</string>
-    <string name="about_amaze_file_manager_label">Tentang Amaze File Manager</string>
+    <string name="about_amaze_file_manager_label">Tentang Full File Manager</string>
     <string name="version">Versi</string>
     <string name="rate">Beri nilai aplikasi</string>
     <string name="feedback">Kirim Umpanbalik</string>
@@ -568,9 +565,9 @@
     <string name="developers">Pengembang</string>
     <string name="no_bitcoin_app">Silakan pasang dompet bitcoin</string>
     <string name="channel_name_normal">Notifikasi Amaze</string>
-    <string name="channel_description_normal">Notifikasi Amaze File Manager</string>
+    <string name="channel_description_normal">Notifikasi Full File Manager</string>
     <string name="channel_name_ftp">Server FTP Amaze</string>
-    <string name="channel_description_ftp">Notifikasi Server FTP Amaze File Manager</string>
+    <string name="channel_description_ftp">Notifikasi Server FTP Full File Manager</string>
 
     <string name="processing">Memproses&#8230;</string>
     <string name="failed_no_connection">Gagal memuat berkas. Silakan periksa koneksi Anda.</string>
@@ -708,7 +705,7 @@ Anda hanya perlu melakukan ini sekali, sampai nanti jika Anda ingin memilih loka
     <string name="compressed_explorer_fragment_error_open_uri">Galat membuka URI \"%s\" untuk dibaca.</string>
     <string name="error_empty_archive">\"%s\" adalah arsip kosong.</string>
     <string name="security_error">Berkas tidak bisa dibuka menggunakan aplikasi ini</string>
-    <string name="cloud_drive_tooltip">Sambungkan Google Drive™ untuk mengelola berkas dari dalam Amaze File Manager.</string>
+    <string name="cloud_drive_tooltip">Sambungkan Google Drive™ untuk mengelola berkas dari dalam Full File Manager.</string>
     <string name="signin_with_google_title">Otentikasi untuk menggunakan Google Drive™</string>
     <string name="show_system_apps">Tampilkan apl sistem</string>
     <string name="system_apps">Apl sistem</string>

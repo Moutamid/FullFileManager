@@ -1,23 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!--
-    Copyright (C) 2014-2017 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
-
-    This file is part of Amaze File Manager.
-
-    Amaze File Manager is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    -->
+  ~ Copyright (c) 2022 FullDive
+  ~  This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU General Public License as published by
+  ~  the Free Software Foundation, either version 3 of the License, or
+  ~  (at your option) any later version.
+  ~
+  ~  This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU General Public License
+  ~  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  -->
 
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation"
@@ -156,7 +153,7 @@
     <string name="miscellaneous">Divers</string>
     <string name="root_pref_summary">Afficher les autorisations des fichiers et des dossiers</string>
     <string name="root_pref">Afficher les autorisations</string>
-    <string name="about_amaze_file_manager_label">À propos d\'Amaze File Manager</string>
+    <string name="about_amaze_file_manager_label">À propos d\'Full File Manager</string>
     <string name="version">Version</string>
     <string name="rate">Évaluer l\'application</string>
     <string name="feedback">Envoyer votre avis</string>
@@ -536,9 +533,9 @@
     <string name="developers">Développeurs</string>
     <string name="no_bitcoin_app">Veuillez installer une application Bitcoin Wallet</string>
     <string name="channel_name_normal">Notifications Amaze</string>
-    <string name="channel_description_normal">Notifications d\'Amaze File Manager</string>
+    <string name="channel_description_normal">Notifications d\'Full File Manager</string>
     <string name="channel_name_ftp">Serveur FTP Amaze</string>
-    <string name="channel_description_ftp">Notifications du serveur FTP Amaze File Manager</string>
+    <string name="channel_description_ftp">Notifications du serveur FTP Full File Manager</string>
 
     <string name="processing">En traitement&#8230;</string>
     <string name="failed_no_connection">Échec du chargement des fichiers. Veuillez vérifier votre connexion.</string>

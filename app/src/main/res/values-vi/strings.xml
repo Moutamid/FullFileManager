@@ -1,28 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <!--
-    Copyright (C) 2014-2017 Arpit Khurana <arpitkh96@gmail.com>, Vishal Nehra <vishalmeham2@gmail.com>
-
-    This file is part of Amaze File Manager.
-
-    Amaze File Manager is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-    -->
+  ~ Copyright (c) 2022 FullDive
+  ~  This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU General Public License as published by
+  ~  the Free Software Foundation, either version 3 of the License, or
+  ~  (at your option) any later version.
+  ~
+  ~  This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU General Public License for more details.
+  ~
+  ~  You should have received a copy of the GNU General Public License
+  ~  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  -->
 
 <resources xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Amaze File Manager</string>
+    <string name="app_name">Full File Manager</string>
     <string name="drawer_open">Mở ngăn kéo điều hướng</string>
     <string name="drawer_close">Thoát ngăn kéo điều hướng</string>
     <string name="icon">biểu tượng</string>
@@ -158,7 +155,7 @@
     <string name="miscellaneous">Chuyên sâu</string>
     <string name="root_pref_summary">Hiện cấp phép cho tệp và thư mục</string>
     <string name="root_pref">Hiện cấp phép</string>
-    <string name="about_amaze_file_manager_label">Về Amaze File Manager</string>
+    <string name="about_amaze_file_manager_label">Về Full File Manager</string>
     <string name="version">Phiên bản</string>
     <string name="rate">Xếp hạng ứng dụng</string>
     <string name="feedback">Gửi phản hồi</string>
@@ -569,9 +566,9 @@
     <string name="developers">Những nhà phát triển</string>
     <string name="no_bitcoin_app">Vui lòng cài đặt một ứng dụng Ví Bitcoin</string>
     <string name="channel_name_normal">Thông báo từ Amaze</string>
-    <string name="channel_description_normal">Thông báo từ Amaze File Manager</string>
+    <string name="channel_description_normal">Thông báo từ Full File Manager</string>
     <string name="channel_name_ftp">Máy chủ FTP Amaze</string>
-    <string name="channel_description_ftp">Thông báo từ Máy chủ FTP Amaze File Manager </string>
+    <string name="channel_description_ftp">Thông báo từ Máy chủ FTP Full File Manager </string>
 
     <string name="processing">Đang xử lí&#8230;</string>
     <string name="failed_no_connection">Không tải được tệp. Vui lòng kiểm tra kết nối của bạn.</string>
@@ -711,7 +708,7 @@ Bạn chỉ cần làm điều này một lần cho đến lần tiếp theo b�
     <string name="compressed_explorer_fragment_error_open_uri">Lỗi khi mở URI \"%s\" để đọc.</string>
     <string name="error_empty_archive">\"%s\" là một tệp lưu trữ trống.</string>
     <string name="security_error">Tập tin không thể được mở bằng ứng dụng này</string>
-    <string name="cloud_drive_tooltip">Tạo một kết nối Google Drive™ để quản lý tệp từ trong Amaze File Manager.</string>
+    <string name="cloud_drive_tooltip">Tạo một kết nối Google Drive™ để quản lý tệp từ trong Full File Manager.</string>
     <string name="signin_with_google_title">Xác thực để sử dụng Google Drive™</string>
     <string name="show_system_apps">Hiện ứng dụng hệ thống</string>
     <string name="system_apps">Ứng dụng hệ thống</string>
