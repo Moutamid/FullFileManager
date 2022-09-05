@@ -31,6 +31,7 @@ android {
 
 
     defaultConfig {
+
         applicationId "com.full.file.manager.top.secure.apk.installer"
         minSdkVersion 16
         targetSdkVersion 32
